@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nabla&display=swap');
+font-family: 'Montserrat', sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(75, 19, 79);
+  background: linear-gradient(
+    0deg,
+    rgba(75, 19, 79, 1) 0%,
+    rgba(160, 13, 195, 1) 51%,
+    rgba(66, 12, 93, 1) 100%
+  );
+  text-align: center;
+}
